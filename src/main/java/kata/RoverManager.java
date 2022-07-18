@@ -1,6 +1,6 @@
-package Other;
+package kata;
 
-import Other.roverdirection.*;
+import kata.roverdirection.*;
 import lombok.Getter;
 public class RoverManager{
     @Getter

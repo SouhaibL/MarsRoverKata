@@ -1,7 +1,9 @@
-import Other.Coordinate;
-import Other.Rover;
-import Other.RoverManager;
-import Other.roverdirection.*;
+package kata;
+
+import kata.Coordinate;
+import kata.Rover;
+import kata.RoverManager;
+import kata.roverdirection.*;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Assert;

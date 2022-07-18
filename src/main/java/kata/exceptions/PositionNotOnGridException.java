@@ -1,7 +1,7 @@
-package Other.exceptions;
+package kata.exceptions;
 
-import Other.Coordinate;
-import Other.Grid;
+import kata.Coordinate;
+import kata.Grid;
 import lombok.Getter;
 
 @Getter

@@ -1,4 +1,4 @@
-package Other.roverdirection;
+package kata.roverdirection;
 
 public class Direction {
     public static final char NORTH = 'N';

@@ -1,9 +1,9 @@
-package Other.roverdirection;
+package kata.roverdirection;
 
-import Other.Coordinate;
-import Other.Rover;
+import kata.Coordinate;
+import kata.Rover;
 
-import static Other.Grid.MAX_WIDTH;
+import static kata.Grid.MAX_WIDTH;
 
 public class RoverWest extends Rover {
 

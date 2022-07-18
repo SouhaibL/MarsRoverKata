@@ -1,8 +1,10 @@
-import Other.Coordinate;
-import Other.Grid;
-import Other.exceptions.PositionNotOnGridException;
-import Other.roverdirection.Direction;
-import Other.RoverManager;
+package kata;
+
+import kata.Coordinate;
+import kata.Grid;
+import kata.exceptions.PositionNotOnGridException;
+import kata.roverdirection.Direction;
+import kata.RoverManager;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Before;

@@ -1,10 +1,7 @@
-package roverdirection;
+package kata.roverdirection;
 
-import Other.Coordinate;
-import Other.Rover;
-import Other.roverdirection.RoverEast;
-import Other.roverdirection.RoverNorth;
-import Other.roverdirection.RoverSouth;
+import kata.Coordinate;
+import kata.Rover;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,11 +1,8 @@
-package Other;
+package kata;
 
-import Other.exceptions.PositionNotOnGridException;
-import lombok.Getter;
-import lombok.Setter;
+import kata.exceptions.PositionNotOnGridException;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Grid {
